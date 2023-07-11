@@ -21,7 +21,7 @@
 - Playing with cat's at spare time
 - Currently building apps with AI
 - Personal website [link](https://kbtanvir-dev.vercel.app)
-- I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/1VS--oTMJhx7bJv0xum1hGPQ8DoER3_j1/view)
+- I’m currently open for a new job opportunity, this is [my resume](https://blackbilled.notion.site/K-B-TANVIR-ad61fcbbc218474786f7e63533c1888d)
 
 <br><br>
 
