@@ -17,13 +17,6 @@
 
 <br>
 
-- A passionate Self-taught programmer
-- Playing with cat's at spare time
-- Currently building apps with AI
-- Personal website [link](https://kbtanvir-dev.vercel.app)
-- I’m currently open for a new job opportunity, this is [my resume](https://blackbilled.notion.site/Khayrul-Bashar-Tanvir-fde0074204e147ee941de1d7a3395820?pvs=4)
-
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
