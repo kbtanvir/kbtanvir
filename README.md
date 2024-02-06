@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Your Friendly Neighborhood Engineer </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="35"></h1>
+<h1 align="center"><b> Greetings </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&center=true&vCenter=true&width=600&height=100&pause=1000&color=00F7F4&lines=Assalamu+Alaikum+Warahmatullah..;Self-taught+Programmer;Active+Learner+%26+Researcher;Big+Dreamer"></a>
