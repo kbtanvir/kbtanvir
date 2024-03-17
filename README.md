@@ -1,8 +1,4 @@
-
-<h1 align="left"><b> Greetings </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="35"></h1>
-
-
-Hi 👋 My name is Md Khayrul Bashar Tanvir
+Hi 👋 My name is Md Khayrul Bashar Tanvir <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="35">
 =========================================
 
 <p align="left">
